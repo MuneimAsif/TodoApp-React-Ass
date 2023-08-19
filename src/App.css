@@ -1,0 +1,63 @@
+body{
+  display: flex;
+  justify-content: center;
+}
+.div1{
+  margin-top: 50px;
+  border: 2px solid rgba(0, 0, 0, 0.507);
+  border-radius: 5px;
+  padding: 20px;
+  width: 100%;
+}
+.inp1{
+  height: 30px;
+  width: 55%;
+  border: none;
+  outline: none;
+  border: 2px solid rgba(128, 128, 128, 0.342);
+  border-radius: 5px;
+  text-indent: 10px;
+  margin-inline: 5px;
+  font-size: 15px;
+}
+.inp2{
+  height: 30px;
+  border: none;
+  outline: none;
+  margin-top: 15px;
+  border: 2px solid rgba(128, 128, 128, 0.342);
+  border-radius: 5px;
+  text-indent: 10px;
+  margin-inline: 5px;
+  font-size: 15px;
+}
+.btn{
+  padding: 7px;
+  border: none;
+  outline: none;
+  border: 2px solid rgba(128, 128, 128, 0.342);
+  border-radius: 5px;
+  margin-inline: 5px;
+  font-size: 15px;
+}
+.btn2{
+  padding: 5px;
+  color: rgba(0, 0, 0, 0.452);
+  border: none;
+  outline: none;
+  border: 2px solid rgba(128, 128, 128, 0.507);
+  border-radius: 5px;
+  margin-inline: 5px;
+  font-size: 12px;
+}
+.para{
+  font-size: 17px;
+  margin-left: 5px;
+  color: rgba(0, 0, 0, 0.774);
+  
+}
+h1{
+  font-size: 1.3rem;
+  color: rgba(0, 0, 0, 0.699);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
